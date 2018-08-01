@@ -8,4 +8,4 @@ An data fetch API that utilizes AXIOS to fetch data from the Giffy API and retur
 ## How to Use
 
 1) npm install
-2) npm run
+2) npm start
