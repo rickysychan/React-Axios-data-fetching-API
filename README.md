@@ -1,8 +1,6 @@
 # React-RSVP Application
 
-An RSVP application to keep track of who is coming and who is not, complete with the ability to edit, remove and add new people and filter out those who have not responded.
-
-This Application was built purely on React 
+An data fetch API that utilizes AXIOS to fetch data from the Giffy API and return the images in a tile format.
 
 ![This is the Front Page](https://github.com/rickysychan/React-rsvp-App/blob/master/imgs/front.png)
 
