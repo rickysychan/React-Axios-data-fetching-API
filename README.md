@@ -1,4 +1,4 @@
-# React-RSVP Application
+# Data-fetching-API
 
 An RSVP application to keep track of who is coming and who is not, complete with the ability to edit, remove and add new people and filter out those who have not responded.
 
